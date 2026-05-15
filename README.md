@@ -11,10 +11,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a **Frontend Developer** with 2+ years of experience in **React**, **Next.js**, and **TailwindCSS**, building high-performance, responsive, and scalable web applications. I enjoy turning complex requirements into elegant, user-friendly interfaces while collaborating effectively with teams.
-
 ---
 
 ## 🛠️ Skills & Tools (Badges)
@@ -64,25 +60,6 @@ I'm a **Frontend Developer** with 2+ years of experience in **React**, **Next.js
 ![Helmet.js](https://img.shields.io/badge/Helmet.js-FF6347?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydanszd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydanszd&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aydanszd&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aydanszd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
 
 ---
 
