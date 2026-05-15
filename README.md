@@ -1,10 +1,3 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=aydanszd&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=51&descAlign=50" width="100%"/>
-</div>
-
----
-
 ---
 
 ## 🛠️ Skills & Tools (Badges)
@@ -47,6 +40,7 @@
 
 ### 📦 State Management
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
