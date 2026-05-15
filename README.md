@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=aydanszd&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Apps+%F0%9F%8C%90;2%2B+Years+of+Experience+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
-</div>
-
 ---
 
 ---
@@ -62,7 +56,3 @@
 ---
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
